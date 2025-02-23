@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "HORE!!🥳";
-    document.querySelector('img').src = "https://m.kaskus.co.id/post/5193a41d8127cf0069000000";
+    document.querySelector('img').src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ji7Hnr4c0xs0WGcxTEGi921hkoaNjSAwUM9yiME47foOuHvEV1De-Xo&s=10";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
